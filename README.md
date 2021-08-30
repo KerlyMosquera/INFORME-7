@@ -3,8 +3,8 @@
 ### OBJETIVO GENERAL
 ### OBJETIVO ESPECÍFICOS
 ## 2. MARCO TEÓRICO
-![MARCO (2)](https://user-images.githubusercontent.com/84431598/131417941-a0254954-711d-4e97-a95d-093545580d77.png)
-![marco3 (2)](https://user-images.githubusercontent.com/84431598/131417955-633a66d3-fe02-45c9-b8b5-8f1da3076d03.png)
+
+![tijeras (2)](https://user-images.githubusercontent.com/84431598/131418371-ff7dbd8b-2629-4a59-b213-370d05901366.png)
 
 ## 3. MATERIALES Y EQUIPOS
 ## 4. EXPLICACIÓN DEL PROCEDIMIENTO 
