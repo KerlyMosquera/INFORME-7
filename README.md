@@ -35,5 +35,5 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 ## 7.VIDEO
 ## 8. CONCLUSIONES
 ## 9. BIBLOGRÁFIAS 
--  Roobins, A y Miller, W.(2007). *Análisis de Circuitos teoría y práctica (4ta ed),* México DF, México : Cengage Learning.
 -  Floyd, T (2007). *Principios de circuitos eléctricos (8va ed),* México DF, México: Pearson Educación.
+-  Roobins, A y Miller, W.(2007). *Análisis de Circuitos teoría y práctica (4ta ed),* México DF, México : Cengage Learning.
