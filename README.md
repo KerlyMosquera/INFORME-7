@@ -126,7 +126,7 @@ Al utilizar tendríamos nuevos valores picos en el caso de los capacitores tendr
 4. ¿ Qué son los valores eficaces de voltaje y corriente?
 
 
-Nuestros valores eficaces de corriente tendríamos con un rms o Hertz alcanzando nuestro valor pico podrimos decir que ahí contamos con una tención y alimentación para el circuito eficaz, la relación que se encuentra entre el valor eficaz y el valor medio se localiza en la amplitud e intensidad de corriente.
+Nuestros valores eficaces de corriente tendríamos con un rms o Hertz alcanzando nuestro valor pico podriamos decir que ahí contamos con una tención y alimentación para el circuito eficaz, la relación que se encuentra entre el valor eficaz y el valor medio se localiza en la amplitud e intensidad de corriente.
 
 ## 7.VIDEO
 
