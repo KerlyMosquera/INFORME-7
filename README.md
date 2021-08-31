@@ -121,6 +121,9 @@ Al utilizar tendríamos nuevos valores picos en el caso de los capacitores tendr
 Nuestros valores eficaces de corriente tendríamos con un rms o Hertz alcanzando nuestro valor pico podrimos decir que ahí contamos con una tención y alimentación para el circuito eficaz, la relación que se encuentra entre el valor eficaz y el valor medio se localiza en la amplitud e intensidad de corriente.
 
 ## 7.VIDEO
+
+https://youtu.be/1ods8UCPYoA
+
 ## 8. CONCLUSIONES
 - (sobre medición de la frecuencia 0)
 -
