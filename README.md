@@ -19,7 +19,7 @@
 
 ![circuito 1 (2)](https://user-images.githubusercontent.com/84431598/131527395-8ce1079f-3552-49c2-a084-aee6f4fea443.png)
 
-una. Use el osciloscopio para observar el voltaje variando la frecuencia entre los
+a. Use el osciloscopio para observar el voltaje variando la frecuencia entre los
 valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
 b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
