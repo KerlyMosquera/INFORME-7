@@ -137,6 +137,10 @@ https://youtu.be/1ods8UCPYoA
 - En el circuito RC se cumple: a mayor frecuencia el Vac disminuye, a mayor frecuencia el Iac aumenta, mayor frecuencia el Vp disminuye.
 - En el circuito RL se cumple: a mayor frecuencia el Vac aumenta, a mayor frecuencia el Iac disminuye, a mayor frecuencia el Vp aumenta.
 - El osciloscopio nos ayuda a observar la forma de onda el voltaje, en corriente continua la señal de la onda es constante como una línea recta mientras que en corriente alterna la forma de la onda es senoidal.
+- Cuando a un circuito se le aplica un voltaje de ca que varía con el tiempo, tal como un
+voltaje sinusoidal, las leyes de circuito y las fórmulas de potencia que se aprendieron con
+anterioridad aún son aplicables. La ley de Ohm, las leyes de Kirchhoff, y las fórmulas
+de potencia se aplican a circuitos de ca de igual forma que se aplican a circuitos de cd.
 ## 9. BIBLOGRÁFIAS 
 -  Floyd, T (2007). *Principios de circuitos eléctricos (8va ed),* México DF, México: Pearson Educación.
 -  Roobins, A y Miller, W.(2007). *Análisis de Circuitos teoría y práctica (4ta ed),* México DF, México : Cengage Learning.
