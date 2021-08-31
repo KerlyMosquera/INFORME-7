@@ -1,7 +1,10 @@
 #  PRÁCTICA NO.7 INDUCTOR Y CAPACITOR
 ## 1. OBJETIVOS
 ### OBJETIVO GENERAL
+1. Verificar el comportamiento de la bobina y el capacitor en diferentes frecuencias 0, 10, 50, 100, 500, 1000 Hz.
 ### OBJETIVO ESPECÍFICOS
+1. Comprobar las leyes que dominan las combinaciones serie y paralelo de bobinas y capacitores.
+2. Usar correctamente los instrumentos de medida en corriente alterna: voltímetro AC, amperímetro AC y osciloscopio. En un simulador “Proteus”.
 ## 2. MARCO TEÓRICO
 
 ![tijeras (2)](https://user-images.githubusercontent.com/84431598/131418371-ff7dbd8b-2629-4a59-b213-370d05901366.png)
@@ -108,12 +111,10 @@ Realice las mediciones de los ítems del numeral anterior y presente los resulta
 ## 6. RESPUESTAS A INTERROGANTES
 1. ¿Cómo  se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
-Cuando por un inductor fluye corriente directa constante, no hay voltaje inducido. Hay, sin embargo, una caída de voltaje provocada por la resistencia de devanado de la bobina. La inductancia aparece como un corto ante corriente directa.
 Se comporta de una forma recta, su forma de onda es recta ya que no tiene un valor de frecuencia, solo tenemos circulación de corriente.
 
 2. ¿Cómo  se comporta la bobina y el capacitor en corriente alterna?
-
-Un capacitor deja pasar la corriente alterna, pero con cierta cantidad de oposición, llamada reactancia capacitiva, que depende de la frecuencia de la corriente alterna mientras que un inductor deja pasar corriente alterna con una cantidad de oposición llamada reactancia inductiva que depende de la frecuencia de la corriente alterna. 
+ 
 Se comporta con caídas y subidas de voltajes respectivamente con valores picos máximos y mínimos.
 
 3. ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobina o dos capacitores de valores distintos?
@@ -130,8 +131,9 @@ Nuestros valores eficaces de corriente tendríamos con un rms o Hertz alcanzando
 https://youtu.be/1ods8UCPYoA
 
 ## 8. CONCLUSIONES
-- (sobre medición de la frecuencia 0)
--
+- Si la frecuencia de trabajo del generador es igual a 0 Hz se concluye que corresponde a DC.
+- En el circuito RC se cumple: a mayor frecuencia el Vac disminuye, a mayor frecuencia el Iac aumenta, mayor frecuencia el Vp disminuye.
+- En el circuito RL se cumple: a mayor frecuencia el Vac aumenta, a mayor frecuencia el Iac disminuye, a mayor frecuencia el Vp aumenta.
 - El osciloscopio nos ayuda a observar la forma de onda el voltaje, en corriente continua la señal de la onda es constante como una línea recta mientras que en corriente alterna la forma de la onda es senoidal.
 ## 9. BIBLOGRÁFIAS 
 -  Floyd, T (2007). *Principios de circuitos eléctricos (8va ed),* México DF, México: Pearson Educación.
