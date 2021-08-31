@@ -120,6 +120,7 @@ Al utilizar tendríamos nuevos valores picos en el caso de los capacitores tendr
 
 4. ¿ Qué son los valores eficaces de voltaje y corriente?
 
+
 Nuestros valores eficaces de corriente tendríamos con un rms o Hertz alcanzando nuestro valor pico podrimos decir que ahí contamos con una tención y alimentación para el circuito eficaz, la relación que se encuentra entre el valor eficaz y el valor medio se localiza en la amplitud e intensidad de corriente.
 
 ## 7.VIDEO
@@ -129,7 +130,7 @@ https://youtu.be/1ods8UCPYoA
 ## 8. CONCLUSIONES
 - (sobre medición de la frecuencia 0)
 -
--
+- El osciloscopio nos ayuda a observar la forma de onda el voltaje, en corriente continua la señal de la onda es constante como una línea recta mientras que en corriente alterna la forma de la onda es senoidal.
 ## 9. BIBLOGRÁFIAS 
 -  Floyd, T (2007). *Principios de circuitos eléctricos (8va ed),* México DF, México: Pearson Educación.
 -  Roobins, A y Miller, W.(2007). *Análisis de Circuitos teoría y práctica (4ta ed),* México DF, México : Cengage Learning.
