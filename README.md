@@ -49,7 +49,11 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 *Figura 2*
 
-Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
+![segundo circuo (2)](https://user-images.githubusercontent.com/84431598/131443014-9405cd44-9cc7-4355-8937-b7eb1fb5d1fd.png)
+
+*Circuito armado *
+
+Realice las mediciones de los ítems del numeral anterior y presente los resultados.
 
 - Con 0 Hz
 
