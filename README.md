@@ -52,6 +52,8 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 *Figura 2*
 
+![123 (2)](https://user-images.githubusercontent.com/84431598/131524256-c66c2d1e-813a-4526-9dc9-903d32ca7f68.png)
+
 ![segundo circuo (2)](https://user-images.githubusercontent.com/84431598/131443014-9405cd44-9cc7-4355-8937-b7eb1fb5d1fd.png)
 
 *Circuito armado *
