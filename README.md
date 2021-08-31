@@ -1,10 +1,10 @@
 #  PRÁCTICA NO.7 INDUCTOR Y CAPACITOR
 ## 1. OBJETIVOS
 ### OBJETIVO GENERAL
-1. Verificar el comportamiento de la bobina y el capacitor en diferentes frecuencias 0, 10, 50, 100, 500, 1000 Hz.
+- Verificar el comportamiento de la bobina y el capacitor en diferentes frecuencias 0, 10, 50, 100, 500, 1000 Hz.
 ### OBJETIVO ESPECÍFICOS
-1. Comprobar las leyes que dominan las combinaciones serie y paralelo de bobinas y capacitores.
-2. Usar correctamente los instrumentos de medida en corriente alterna: voltímetro AC, amperímetro AC y osciloscopio. En un simulador “Proteus”.
+- Comprobar las leyes que dominan las combinaciones serie y paralelo de bobinas y capacitores.
+- Usar correctamente los instrumentos de medida en corriente alterna: voltímetro AC, amperímetro AC y osciloscopio. En un simulador “Proteus”.
 ## 2. MARCO TEÓRICO
 
 ![tijeras (2)](https://user-images.githubusercontent.com/84431598/131418371-ff7dbd8b-2629-4a59-b213-370d05901366.png)
