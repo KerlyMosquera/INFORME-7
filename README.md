@@ -69,7 +69,7 @@ Nuestros valores eficaces de corriente tendríamos con un rms o Hertz alcanzando
 
 ## 7.VIDEO
 ## 8. CONCLUSIONES
--
+- (sobre medición de la frecuencia 0)
 -
 -
 ## 9. BIBLOGRÁFIAS 
