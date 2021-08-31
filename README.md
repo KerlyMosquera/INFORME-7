@@ -111,10 +111,12 @@ Realice las mediciones de los ítems del numeral anterior y presente los resulta
 ## 6. RESPUESTAS A INTERROGANTES
 1. ¿Cómo  se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+Cuando por un inductor fluye corriente directa constante, no hay voltaje inducido. Hay, sin embargo, una caída de voltaje provocada por la resistencia de devanado de la bobina. La inductancia aparece como un corto ante corriente directa.
 Se comporta de una forma recta, su forma de onda es recta ya que no tiene un valor de frecuencia, solo tenemos circulación de corriente.
 
 2. ¿Cómo  se comporta la bobina y el capacitor en corriente alterna?
  
+Un capacitor deja pasar la corriente alterna, pero con cierta cantidad de oposición, llamada reactancia capacitiva, que depende de la frecuencia de la corriente alterna mientras que un inductor deja pasar corriente alterna con una cantidad de oposición llamada reactancia inductiva que depende de la frecuencia de la corriente alterna.
 Se comporta con caídas y subidas de voltajes respectivamente con valores picos máximos y mínimos.
 
 3. ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobina o dos capacitores de valores distintos?
