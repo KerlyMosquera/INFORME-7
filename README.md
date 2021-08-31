@@ -7,6 +7,9 @@
 ![tijeras (2)](https://user-images.githubusercontent.com/84431598/131418371-ff7dbd8b-2629-4a59-b213-370d05901366.png)
 
 ## 3. MATERIALES Y EQUIPOS
+
+![materiales (2)](https://user-images.githubusercontent.com/84431598/131523282-c62c0932-2dfd-4885-97ae-52c4d2438b97.png)
+
 ## 4. EXPLICACIÓN DEL PROCEDIMIENTO 
 1. Construya  en el protoboard el circuito mostrado en la Figura 1.
 
