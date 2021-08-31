@@ -125,7 +125,9 @@ Al utilizar tendríamos nuevos valores picos en el caso de los capacitores tendr
 
 4. ¿ Qué son los valores eficaces de voltaje y corriente?
 
-
+El valor rms, conocido también como valor efectivo, de un
+voltaje sinusoidal es en realidad una medida del efecto de calentamiento de la onda seno.El valor rms de un voltaje sinusoidal es igual al voltaje de cd que produce la misma can-
+tidad de calor en una resistencia que un voltaje sinusoidal.
 Nuestros valores eficaces de corriente tendríamos con un rms o Hertz alcanzando nuestro valor pico podriamos decir que ahí contamos con una tención y alimentación para el circuito eficaz, la relación que se encuentra entre el valor eficaz y el valor medio se localiza en la amplitud e intensidad de corriente.
 
 ## 7.VIDEO
