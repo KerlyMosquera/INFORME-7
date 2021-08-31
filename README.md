@@ -112,7 +112,7 @@ Realice las mediciones de los ítems del numeral anterior y presente los resulta
 1. ¿Cómo  se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
 Cuando por un inductor fluye corriente directa constante, no hay voltaje inducido. Hay, sin embargo, una caída de voltaje provocada por la resistencia de devanado de la bobina. La inductancia aparece como un corto ante corriente directa.
-Se comporta de una forma recta, su forma de onda es recta ya que no tiene un valor de frecuencia, solo tenemos circulación de corriente.
+Se comporta de una forma recta, su forma de onda es recta ya que su valor de frecuencia es cero Hz, solo tenemos circulación de corriente.
 
 2. ¿Cómo  se comporta la bobina y el capacitor en corriente alterna?
  
