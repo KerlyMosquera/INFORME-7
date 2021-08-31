@@ -33,7 +33,6 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 
 ### 4.1 CÁLCULOS
 ## 5. ANÁLISIS DE LOS RESULTADOS
-### 5.1 CÁLCULO DEL ERROR
 ## 6. RESPUESTAS A INTERROGANTES
 1. ¿Cómo  se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 2. ¿Cómo  se comporta la bobina y el capacitor en corriente alterna?
