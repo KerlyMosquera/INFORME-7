@@ -56,7 +56,7 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 Se comporta de una forma recta, su forma de onda es recta ya que no tiene un valor de frecuencia, solo tenemos circulación de corriente.
 
 2. ¿Cómo  se comporta la bobina y el capacitor en corriente alterna?
-3. 
+ 
 Se comporta con caídas y subidas de voltajes respectivamente con valores picos máximos y mínimos.
 
 3. ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobina o dos capacitores de valores distintos?
